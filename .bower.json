@@ -1,0 +1,13 @@
+{
+  "name": "materialkit-ui-pro",
+  "homepage": "https://github.com/fk1018/materialkit-ui-pro",
+  "_release": "b8cc319ad6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b8cc319ad66798b95698d007ac9634c72bcf78de"
+  },
+  "_source": "https://github.com/fk1018/materialkit-ui-pro.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/fk1018/materialkit-ui-pro.git"
+}
